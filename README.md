@@ -3,6 +3,7 @@
 在编辑器下，生成资产的缩略图为纹理（Texture）
 
 ![](./Resources/1.png)
+![](./Resources/2.png)
 
 # 运行环境
 
